@@ -12,28 +12,7 @@
   🔥 Currently sharpening my skills in MERN Stack Development and open to exciting internship opportunities.
 </p>
 
----
 
-- 📧 **Reach me at:** `sgivamsharma06@gmail.com`
-- 📄 **Know more about my experiences:** [View My Resume](https://drive.google.com/file/d/1_AD57EfaQPbzV3Xb6pKtPI93jGrxDFFq/view?usp=sharing)
-
----<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/shivam-sharma-081b27279" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/profile.php?id=100089508653170" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" width="50" alt="Facebook" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/shivamsharma6842" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" alt="Instagram" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
-
-
----
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
@@ -83,6 +62,29 @@
   &nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p>
+
+
+---
+
+---
+
+- 📧 **Reach me at:** `sgivamsharma06@gmail.com`
+- 📄 **Know more about my experiences:** [View My Resume](https://drive.google.com/file/d/1_AD57EfaQPbzV3Xb6pKtPI93jGrxDFFq/view?usp=sharing)
+
+---<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/shivam-sharma-081b27279" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/profile.php?id=100089508653170" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="50" width="50" alt="Facebook" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/shivamsharma6842" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" alt="Instagram" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
