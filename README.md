@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Enthusiast | Passionate about Building Scalable and Dynamic Web Experiences 🌐</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
