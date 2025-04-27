@@ -94,19 +94,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sharmashivam23&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmashivam23&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmashivam23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmashivam23&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
