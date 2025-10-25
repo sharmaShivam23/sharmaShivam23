@@ -71,7 +71,6 @@
 ---
 
 - 📧 **Reach me at:** `sgivamsharma06@gmail.com`
-- 📄 **Know more about my experiences:** [View My Resume](https://drive.google.com/file/d/1_AD57EfaQPbzV3Xb6pKtPI93jGrxDFFq/view?usp=sharing)
 
 ---<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
