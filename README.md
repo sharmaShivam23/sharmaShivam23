@@ -1,110 +1,101 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">MERN Stack Enthusiast | Passionate about Building Scalable and Dynamic Web Experiences 🌐</h3>
+
+<h3 align="center">
+MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Open+to+Internships+%26+Opportunities" />
 </p>
 
+---
 
+## 👨‍💻 About Me
 
-<p align="center">
-  🚀 I'm a dedicated developer with a strong interest in building web applications that make an impact.<br/>
-  🔥 Currently sharpening my skills in MERN Stack Development and open to exciting internship opportunities.
-</p>
+- 🎓 B.Tech IT Student  
+- 💻 Full Stack Developer  
+- 🌱 Currently learning **Next.js & Cloud Deployment**  
+- 🎯 Goal: Build scalable, real-world products  
+- 🤝 Open to **Internships, Freelance & Entry-Level Roles**
 
+---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### 🧠 Programming
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 
 ---
 
----
+## 📊 GitHub Stats
 
-- 📧 **Reach me at:** `sgivamsharma06@gmail.com`
-
----<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/shivam-sharma-081b27279" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/profile.php?id=100089508653170" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" width="50" alt="Facebook" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/shivamsharma6842" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" alt="Instagram" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=sharmaShivam23&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaShivam23&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaShivam23&theme=radical&hide_border=true" />
+</p>
 
 ---
 
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharmashivam23&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sharmaShivam23&theme=onedark&no-frame=true&row=1" />
 </p>
-
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmashivam23&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmashivam23&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmashivam23&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivam-sharma-081b27279">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/shivamsharma6842">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sgivamsharma06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://github.com/sharmaShivam23/sharmaShivam23/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sharmaShivam23&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
