@@ -22,6 +22,7 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 
 ## 🛠️ Tech Stack
 
+<div align="center">
 ### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
@@ -37,6 +38,7 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
+</div>
 ---
 
 
