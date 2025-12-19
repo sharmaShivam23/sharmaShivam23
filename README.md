@@ -10,17 +10,16 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 
 ---
 
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech IT Student  
 - 💻 Full Stack Developer  
-- 🌱 Currently learning **Next.js & Cloud Deployment**  
-- 🎯 Goal: Build scalable, real-world products  
+- 🌱 Currently learning **Next.js & Cloud Deployment** - 🎯 Goal: Build scalable, real-world products  
 - 🤝 Open to **Internships, Freelance & Entry-Level Roles**
 
 ---
 
-## 🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -38,21 +37,27 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
+---
+
+
+## 🚀 Check Out My Portfolio
+<p align="center">
+<a href="https://sharmashivam.me" target="_blank">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Visit+sharmashivam.me+→;Explore+My+Projects+🚀" alt="My Portfolio" />
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=sharmaShivam23&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaShivam23&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharmaShivam23&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaShivam23&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaShivam23&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaShivam23&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -60,8 +65,7 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sharmaShivam23&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharmaShivam23&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
@@ -85,15 +89,13 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github.com/sharmaShivam23/sharmaShivam23/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sharmaShivam23/sharmaShivam23/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sharmaShivam23&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sharmaShivam23&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
