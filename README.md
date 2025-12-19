@@ -22,10 +22,10 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 
 ## 🛠️ Tech Stack
 
+<div align="center">
 
 ### 🌐 Frontend
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 ### ⚙️ Backend
