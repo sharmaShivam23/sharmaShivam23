@@ -46,10 +46,11 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 
 ## 🚀 Check Out My Portfolio
 <p align="center">
-<a href="https://sharmashivam.me" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Visit+sharmashivam.me+→;Explore+My+Projects+🚀" alt="My Portfolio" />
-</a>
+  <a href="https://sharmashivam.me" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Visit+sharmashivam.me;Explore+My+Projects" alt="My Portfolio" />
+  </a>
 </p>
+
 
 ---
 
