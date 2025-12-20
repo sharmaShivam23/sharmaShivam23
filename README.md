@@ -4,9 +4,14 @@
 Full-Stack Developer | AWS | DSA (C++)
 </h3>
 
-<p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Internships+and+Opportunities" />
-</p>
+</p> 
+
+
+
+
+
 
 ---
 
@@ -44,12 +49,22 @@ Full-Stack Developer | AWS | DSA (C++)
 ---
 
 ## Portfolio
-
+<!--
 <p align="center">
   <a href="https://sharmashivam.me" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Visit+sharmashivam.me;View+My+Projects" />
   </a>
 </p>
+-->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=120&animation=fadeIn&text=View%20Portfolio&fontSize=32&fontAlign=50&fontColor=ffffff&stroke=36BCF7&strokeWidth=1&color=gradient"
+    alt="View Portfolio"
+  />
+</p>
+
+
 
 ---
 
