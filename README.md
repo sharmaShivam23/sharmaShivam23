@@ -58,10 +58,12 @@ Full-Stack Developer | AWS | DSA (C++)
 -->
 
 <p align="center">
+ <a href="https://www.sharmashivam.me">
   <img
     src="https://capsule-render.vercel.app/api?type=transparent&height=120&animation=fadeIn&text=View%20Portfolio&fontSize=32&fontAlign=50&fontColor=ffffff&stroke=36BCF7&strokeWidth=1&color=gradient"
     alt="View Portfolio"
   />
+  <a/>
 </p>
 
 
