@@ -1,60 +1,59 @@
-<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
+<h1 align="center">Hi, I'm Shivam Sharma</h1>
 
 <h3 align="center">
-MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
+Full-Stack Developer | AWS | DSA (C++)
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Internships+and+Opportunities" />
 </p>
 
 ---
 
+## About Me
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech IT Student  
-- 💻 Full Stack Developer  
-- 🌱 Currently learning **Next.js & Cloud Deployment** - 🎯 Goal: Build scalable, real-world products  
-- 🤝 Open to **Internships, Freelance & Entry-Level Roles**
+- B.Tech Information Technology student  
+- Full Stack Web Developer (MERN)  
+- Currently learning **Next.js and Cloud Deployment**  
+- Focused on building scalable, real-world applications  
+- Open to **Internships, Freelance, and Entry-Level Roles**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
-
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-### ⚙️ Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-### 🧠 Programming
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 
-### ☁️ DevOps & Cloud
+### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 
-### 🔧 Tools
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
+
 ---
 
+## Portfolio
 
-## 🚀 Check Out My Portfolio
 <p align="center">
   <a href="https://sharmashivam.me" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Visit+sharmashivam.me;Explore+My+Projects" alt="My Portfolio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Visit+sharmashivam.me;View+My+Projects" />
   </a>
 </p>
 
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharmaShivam23&show_icons=true&theme=radical&hide_border=true" />
@@ -67,7 +66,7 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharmaShivam23&theme=onedark&no-frame=true&row=1" />
@@ -75,23 +74,23 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/shivam-sharma-081b27279">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/shivamsharma6842">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:sgivamsharma06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Activity
 
 <p align="center">
   <img src="https://github.com/sharmaShivam23/sharmaShivam23/blob/output/github-contribution-grid-snake.svg" />
@@ -104,5 +103,5 @@ MERN Stack Developer | Full-Stack Web Enthusiast | AWS | DSA C++ 🚀
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  If you find my work useful, feel free to star the repositories.
 </p>
