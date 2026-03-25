@@ -5,7 +5,7 @@ Full-Stack Developer | AWS | DSA (C++)
 </h3>
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Internships+and+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Internships+and+Opportunities" />
 </p> 
 
 
