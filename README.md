@@ -137,9 +137,8 @@ const shivam = {
 <div align="center">
 
 ### 🧪 GitTestPulse — AI-Powered GitHub Repo Test Generator
-
-<a href="https://github.com/sharmaShivam23/TestCaseGenerator.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmaShivam23&repo=gittestpulse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+<a href="https://github.com/sharmaShivam23/TestCaseGenerator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmaShivam23&repo=TestCaseGenerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
 </a>
 
 </div>
